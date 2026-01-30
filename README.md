@@ -1,5 +1,11 @@
 # Executive Sales & Profitability Dashboard
 
+## Table of Content
+[overview](-overview)
+
+[dashboards included](-dashboards-included)
+
+---
 ## 📌 Overview
 This repository contains an **executive-level sales and profitability analysis** focused on understanding **what drives profit, where losses occur, and why margin erosion happens**.  
 The project combines **Excel and Tableau dashboards** to deliver both **operational visibility** and **strategic, executive insights**.
@@ -56,12 +62,12 @@ Purpose:
 | `dataset` | Dataset used for analysis |
 | `dataset/raw-data/` | Raw dataset used in Tableau dashboard |
 | `dataset/cleaned-data/` | Cleaned dataset used in Excel dashboard |
-| `tableau-sales-customer-overview` | Tableau sales and customer overview dashboard |
-| `tableau-sales-customer-overview/sales-and-customers-dashboard.twbx` | Packaged Tableau workbook |
-| `tableau-sales-customer-overview/tableau-snapshot` | Screenshots of the Tableau dashboard |
 | `excel-executive-profitability-dashboard` | Excel-based executive profitability dashboard |
 | `excel-executive-profitability-dashboard/sales-and-profitability-analysis-dashboard.xlsx` | Excel executive dashboard file |
 | `excel-executive-profitability-dashboard/executive-dashboard-snapshot` | Screenshots of the Excel dashboard |
+| `tableau-sales-customer-overview` | Tableau sales and customer overview dashboard |
+| `tableau-sales-customer-overview/sales-and-customers-dashboard.twbx` | Packaged Tableau workbook |
+| `tableau-sales-customer-overview/tableau-snapshot` | Screenshots of the Tableau dashboard |
 | `README.md` | Project documentation |
 
 
