@@ -1,12 +1,22 @@
 # Executive Sales & Profitability Dashboard
 
-## Table of Content
-[overview](-overview)
-
-[dashboards included](-dashboards-included)
+## Table of Contents
+- [Project Overview](#-project-overview)
+- [Tools & Techniques](#tools-&-techniques)
+- [Project Requirements](#project-requirements)
+- [Project Goal](#project-goal)
+- [BI: Analytics & Reporting](#bi-analytics--reporting)
+- [Tableau Dashboard Overview](https://public.tableau.com/app/profile/wisdom.mpamugo/viz/salesbaraaproject/customersummary)
+- [Data Architecture](#data-architecture)
+- [Repository Structure](#-repository-structure)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [About](#about)
+- [Contact](#contact)
 
 ---
-## 📌 Overview
+## 📌 Project Overview
 This repository contains an **executive-level sales and profitability analysis** focused on understanding **what drives profit, where losses occur, and why margin erosion happens**.  
 The project combines **Excel and Tableau dashboards** to deliver both **operational visibility** and **strategic, executive insights**.
 
@@ -17,6 +27,40 @@ The analysis answers four key business questions:
 - How do discounts impact profitability?
 
 The final output is a **single-page executive dashboard** designed for decision-makers, with no filters or interactivity required.
+
+
+---
+
+## 🛠️ Tools & Techniques
+- **Excel**
+  - PivotTables & Data Model
+  - KPI calculations
+  - Pareto (80/20) analysis
+  - Executive dashboard design
+
+- **Tableau**
+  - Sales & customer overview dashboard
+  - Visual exploration and trend analysis
+
+- **Data Analysis Concepts**
+  - Profitability analysis
+  - Margin erosion
+  - Product mix optimization
+  - Regional performance analysis
+ 
+---
+
+## Project Requirements
+
+To view and work with this project, the following tools are required:
+
+| Requirement | Description |
+|------------|-------------|
+| Microsoft Excel | Excel 365 or later (used for KPI calculations, PivotTables, Data Model, and executive dashboard) |
+| Tableau Desktop | Tableau Desktop or Tableau Public (used for the sales and customer overview dashboard) |
+| Dataset | Superstore sales dataset provided in the `data` folder |
+| Operating System | Windows or macOS |
+| Basic Skills | Familiarity with Excel PivotTables and Tableau dashboards |
 
 ---
 
@@ -31,8 +75,6 @@ The final output is a **single-page executive dashboard** designed for decision-
 
 Purpose:  
 > Provide a **high-level, decision-ready snapshot** of profitability drivers and risks.
-
----
 
 ### 2️⃣ Sales & Customer Overview Dashboard (Tableau)
 - Sales trends and customer-level insights
@@ -54,8 +96,6 @@ Purpose:
 
 ## 🗂️ Repository Structure
 
-## Repository Structure
-
 | Folder / File | Description |
 |--------------|-------------|
 | `executive-sales-profitability-dashboard` | Root directory of the project |
@@ -70,26 +110,6 @@ Purpose:
 | `tableau-sales-customer-overview/tableau-snapshot` | Screenshots of the Tableau dashboard |
 | `README.md` | Project documentation |
 
-
-
----
-
-## 🛠️ Tools & Techniques
-- **Excel**
-  - PivotTables & Data Model
-  - KPI calculations
-  - Pareto (80/20) analysis
-  - Executive dashboard design
-
-- **Tableau**
-  - Sales & customer overview dashboard
-  - Visual exploration and trend analysis
-
-- **Data Analysis Concepts**
-  - Profitability analysis
-  - Margin erosion
-  - Product mix optimization
-  - Regional performance analysis
 
 ---
 
