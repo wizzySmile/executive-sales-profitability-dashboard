@@ -10,7 +10,7 @@ The project transforms raw sales data into actionable insights, enabling stakeho
 - [Project Goal](#project-goal)
 - [Project Requirements](#project-requirements)
 - [Tools & Techniques](#️-tools--techniques)
-- [BI & Analytical Reporting (Tableau Dashboard)](bi--analytical-reporting-tableau-dashboard)
+- [BI & Analytical Reporting (Tableau Dashboard)](#bi--analytical-reporting-tableau-dashboard)
 - [BI & Analytical Reporting (Excel Dashboard)](#bi--analytical-reporting-excel-dashboard)
 - [Repository Structure](#️-repository-structure)
 - [How to Use This Repository](#-how-to-use-this-repository)
