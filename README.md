@@ -95,9 +95,12 @@ The dashboard delivers:
 - **Interactive Exploration** — Enables users to explore sales patterns and performance dynamically for deeper understanding.
 
 This dashboard serves as a foundation for exploratory analysis, supporting deeper profitability and performance investigations conducted in the executive Excel dashboard.
+**Tableau Dashboard Link:** [https://public.tableau.com/views/SalesandCustomersDashboardProject/CustomersDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
+[https://public.tableau.com/app/profile/wisdom.mpamugo/viz/SalesandCustomersDashboardProject/CustomersDashboard]
 
 ---
+
 ## BI & Analytical Reporting (Excel Dashboard)
 
 The Excel Executive Sales & Profitability Dashboard delivers business intelligence insights through structured analytical reporting designed for executive decision-making.
