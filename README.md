@@ -95,6 +95,7 @@ The dashboard delivers:
 - **Interactive Exploration** — Enables users to explore sales patterns and performance dynamically for deeper understanding.
 
 This dashboard serves as a foundation for exploratory analysis, supporting deeper profitability and performance investigations conducted in the executive Excel dashboard.
+
 **Tableau Dashboard Link:** [https://public.tableau.com/views/SalesandCustomersDashboardProject/CustomersDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ---
