@@ -2,12 +2,13 @@
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
-- [Tools & Techniques](#tools--techniques)
-- [Project Requirements](#project-requirements)
 - [Project Goal](#project-goal)
+- [Project Requirements](#project-requirements)
+- [Tools & Techniques](#tools--techniques)
 - [BI & Analytical Reporting (Tableau Dashboard)](bi--analytical-reporting-(tableau-dashboard))
 - [BI & Analytical Reporting (Excel Dashboard)](#bi--analytical-reporting-(excel-dashboard))
 - [Repository Structure](#-repository-structure)
+- [How to Use This Repository](#-how-to-use-this-repository)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
@@ -27,6 +28,33 @@ The analysis answers four key business questions:
 
 The final output is a **single-page executive dashboard** designed for decision-makers, with no filters or interactivity required.
 
+---
+
+## Project Goal
+
+The goal of this project is to analyze sales performance and identify the key factors influencing profitability across products, regions, and discount strategies.
+
+The project aims to:
+- Provide an executive-level view of overall business performance
+- Identify products and regions driving profit and those causing losses
+- Understand how discount strategies impact profitability
+- Support data-driven decision-making through clear, visual dashboards
+
+The final deliverable is an executive dashboard that allows stakeholders to quickly understand where profit is generated, where it is lost, and where improvement actions
+
+---
+
+## Project Requirements
+
+To view and work with this project, the following tools are required:
+
+| Requirement | Description |
+|------------|-------------|
+| Microsoft Excel | Excel 365 or later (used for KPI calculations, PivotTables, Data Model, and executive dashboard) |
+| Tableau Desktop | Tableau Desktop or Tableau Public (used for the sales and customer overview dashboard) |
+| Dataset | Superstore sales dataset provided in the `data` folder |
+| Operating System | Windows or macOS |
+| Basic Skills | Familiarity with Excel PivotTables and Tableau dashboards |
 
 ---
 
@@ -47,33 +75,6 @@ The final output is a **single-page executive dashboard** designed for decision-
   - Product mix optimization
   - Regional performance analysis
  
----
-
-## Project Requirements
-
-To view and work with this project, the following tools are required:
-
-| Requirement | Description |
-|------------|-------------|
-| Microsoft Excel | Excel 365 or later (used for KPI calculations, PivotTables, Data Model, and executive dashboard) |
-| Tableau Desktop | Tableau Desktop or Tableau Public (used for the sales and customer overview dashboard) |
-| Dataset | Superstore sales dataset provided in the `data` folder |
-| Operating System | Windows or macOS |
-| Basic Skills | Familiarity with Excel PivotTables and Tableau dashboards |
-
----
-
-## Project Goal
-
-The goal of this project is to analyze sales performance and identify the key factors influencing profitability across products, regions, and discount strategies.
-
-The project aims to:
-- Provide an executive-level view of overall business performance
-- Identify products and regions driving profit and those causing losses
-- Understand how discount strategies impact profitability
-- Support data-driven decision-making through clear, visual dashboards
-
-The final deliverable is an executive dashboard that allows stakeholders to quickly understand where profit is generated, where it is lost, and where improvement actions
 
 ---
 
@@ -108,15 +109,6 @@ These analytical views enable stakeholders to quickly understand performance dri
 
 ---
 
-## 🧠 Key Business Insights
-- Profitability is **highly concentrated** in a small number of product sub-categories (Pareto effect).
-- Several sub-categories generate **consistent losses**, eroding overall performance.
-- Losses are **geographically concentrated** in specific states rather than spread evenly.
-- Higher discount levels increase sales volume but **significantly reduce average profit**, making aggressive discounting unsustainable.
-- Improving profitability is more about **selling smarter**, not selling more.
-
----
-
 ## 🗂️ Repository Structure
 
 | Folder / File | Description |
@@ -136,21 +128,49 @@ These analytical views enable stakeholders to quickly understand performance dri
 
 ---
 
-## 🎯 Target Audience
-- Business stakeholders
-- Sales & operations managers
-- Analysts and consultants
-- Recruiters reviewing analytics portfolios
-
----
-
 ## 📌 How to Use This Repository
-1. Review the **Excel executive dashboard** for decision-level insights.
-2. Explore the **Tableau dashboard** for supporting sales and customer context.
+1. Explore the **Tableau dashboard** for supporting sales and customer context.
+2. Review the **Excel executive dashboard** for decision-level insights.
 3. Use the dashboards together to understand both **what is happening** and **why it is happening**.
 
 ---
 
+## 🧠 Key Insights
+
+The analysis produced several important business insights:
+
+- Profitability is highly concentrated, with a small number of product sub-categories generating the majority of total profit.
+- Several product sub-categories consistently operate at a loss, reducing overall business performance despite contributing sales volume.
+- Business losses are concentrated in specific states, indicating localized performance issues rather than company-wide challenges.
+- Higher discount levels significantly reduce average profitability, showing that aggressive discounting drives sales volume at the expense of margins.
+- Improving profitability depends more on optimizing product focus, pricing discipline, and regional performance than simply increasing sales.
+
+---
+
+## Recommendations
+
+Based on the analysis, the following actions can improve overall profitability:
+
+- Increase focus on high-performing product sub-categories that consistently generate profit.
+- Review and redesign pricing or cost structures for loss-making product segments.
+- Implement stricter discount controls to prevent margin erosion caused by aggressive price reductions.
+- Conduct targeted investigations in loss-heavy states to address operational or market-specific challenges.
+- Monitor profitability alongside sales volume to ensure growth remains sustainable.
+
+---
+
+## Limitations
+
+While the analysis provides valuable insights, some limitations should be considered:
+
+- The dataset represents historical sales data and may not fully reflect current market conditions.
+- External factors such as competition, operational costs, or customer behavior changes are not captured in the dataset.
+- Discount and profitability relationships may vary over time and require continuous monitoring.
+- Customer-level profitability analysis was outside the scope of this project and may provide additional insights.
+
+Future work could include integrating additional operational and customer data to enhance analysis depth.
+
+---
 ## 🚀 Author
 **Wisdom Mpamugo**  
 Data & Business Analytics  
