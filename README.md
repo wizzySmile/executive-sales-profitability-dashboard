@@ -96,7 +96,7 @@ The dashboard delivers:
 
 This dashboard serves as a foundation for exploratory analysis, supporting deeper profitability and performance investigations conducted in the executive Excel dashboard.
 
-**Tableau Dashboard Link:** [https://public.tableau.com/views/SalesandCustomersDashboardProject/CustomersDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+- View the interactive Tableau dashboards here: [Tableau Dashboard Link][https://public.tableau.com/views/SalesandCustomersDashboardProject/CustomersDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ---
 
@@ -113,6 +113,7 @@ The dashboard provides:
 - **Discount Impact Analysis** — Shows how increasing discount levels affect average profitability.
 
 These analytical views enable stakeholders to quickly understand performance drivers and take targeted actions to improve profitability.
+![Excel Executive Dashboard]("Executive-level-sales-and-profitability-project\excel-executive-profitability-dashboard\executive-dashboard-snapshot.png".png)
 
 ---
 
