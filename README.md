@@ -1,15 +1,20 @@
 # Executive Sales & Profitability Dashboard
+In competitive business environments, understanding where revenue translates into profit — and where it does not — is critical for sustainable growth. This project analyzes sales performance and profitability using business intelligence dashboards built in Excel and Tableau.
+
+The project transforms raw sales data into actionable insights, enabling stakeholders to quickly understand performance drivers, identify loss-making areas, and make informed decisions to improve profitability. By combining analytical reporting with executive-level dashboard design, the project demonstrates how data can support smarter, profit-focused business strategies.
+
+---
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
 - [Project Goal](#project-goal)
 - [Project Requirements](#project-requirements)
-- [Tools & Techniques](#tools--techniques)
-- [BI & Analytical Reporting (Tableau Dashboard)](bi--analytical-reporting-(tableau-dashboard))
-- [BI & Analytical Reporting (Excel Dashboard)](#bi--analytical-reporting-(excel-dashboard))
-- [Repository Structure](#-repository-structure)
+- [Tools & Techniques](#️-tools--techniques)
+- [BI & Analytical Reporting (Tableau Dashboard)](bi--analytical-reporting-tableau-dashboard)
+- [BI & Analytical Reporting (Excel Dashboard)](#bi--analytical-reporting-excel-dashboard)
+- [Repository Structure](#️-repository-structure)
 - [How to Use This Repository](#-how-to-use-this-repository)
-- [Key Insights](#key-insights)
+- [Key Insights](#-key-insights)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [About](#about)
