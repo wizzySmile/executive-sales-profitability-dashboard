@@ -80,7 +80,6 @@ To view and work with this project, the following tools are required:
   - Product mix optimization
   - Regional performance analysis
  
-
 ---
 
 ## BI & Analytical Reporting (Tableau Dashboard)
@@ -113,7 +112,7 @@ The dashboard provides:
 - **Discount Impact Analysis** — Shows how increasing discount levels affect average profitability.
 
 These analytical views enable stakeholders to quickly understand performance drivers and take targeted actions to improve profitability.
-![Excel Executive Dashboard]("Executive-level-sales-and-profitability-project\excel-executive-profitability-dashboard\executive-dashboard-snapshot.png".png)
+![Excel Executive Dashboard](excel-executive-profitability-dashboard/executive-dashboard-snapshot.png)
 
 ---
 
