@@ -2,12 +2,11 @@
 
 ## Table of Contents
 - [Project Overview](#-project-overview)
-- [Tools & Techniques](#tools-&-techniques)
+- [Tools & Techniques](#tools--techniques)
 - [Project Requirements](#project-requirements)
 - [Project Goal](#project-goal)
-- [BI: Analytics & Reporting](#bi-analytics--reporting)
-- [Tableau Dashboard Overview](https://public.tableau.com/app/profile/wisdom.mpamugo/viz/salesbaraaproject/customersummary)
-- [Data Architecture](#data-architecture)
+- [BI & Analytical Reporting (Tableau Dashboard)](bi--analytical-reporting-(tableau-dashboard))
+- [BI & Analytical Reporting (Excel Dashboard)](#bi--analytical-reporting-(excel-dashboard))
 - [Repository Structure](#-repository-structure)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
@@ -64,24 +63,48 @@ To view and work with this project, the following tools are required:
 
 ---
 
-## 📊 Dashboards Included
+## Project Goal
 
-### 1️⃣ Executive Sales & Profitability Dashboard (Excel)
-- Executive KPIs (Sales, Profit, Margin, Loss Orders, Discounts, Shipping)
-- Product Profit & Loss by Sub-Category
-- Profit Concentration (80/20 Analysis)
-- Regional & State Loss Analysis
-- Discount Range vs Average Profit
+The goal of this project is to analyze sales performance and identify the key factors influencing profitability across products, regions, and discount strategies.
 
-Purpose:  
-> Provide a **high-level, decision-ready snapshot** of profitability drivers and risks.
+The project aims to:
+- Provide an executive-level view of overall business performance
+- Identify products and regions driving profit and those causing losses
+- Understand how discount strategies impact profitability
+- Support data-driven decision-making through clear, visual dashboards
 
-### 2️⃣ Sales & Customer Overview Dashboard (Tableau)
-- Sales trends and customer-level insights
-- Supporting dashboard used as a foundation for deeper profitability analysis
+The final deliverable is an executive dashboard that allows stakeholders to quickly understand where profit is generated, where it is lost, and where improvement actions
 
-Purpose:  
-> Provide **exploratory and descriptive insights** into sales and customer behavior.
+---
+
+## BI & Analytical Reporting (Tableau Dashboard)
+
+The Tableau Sales & Customer Overview Dashboard provides interactive business intelligence reporting focused on understanding sales trends and customer behavior.
+
+The dashboard delivers:
+
+- **Sales Performance Monitoring** — Visualization of overall sales trends and performance across time and product categories.
+- **Customer Overview Analysis** — Insights into customer distribution and contribution to sales performance.
+- **Product & Regional Sales Breakdown** — Analysis of how sales vary across product categories.
+- **Interactive Exploration** — Enables users to explore sales patterns and performance dynamically for deeper understanding.
+
+This dashboard serves as a foundation for exploratory analysis, supporting deeper profitability and performance investigations conducted in the executive Excel dashboard.
+
+
+---
+## BI & Analytical Reporting (Excel Dashboard)
+
+The Excel Executive Sales & Profitability Dashboard delivers business intelligence insights through structured analytical reporting designed for executive decision-making.
+
+The dashboard provides:
+
+- **Executive KPI Reporting** — Summary metrics including total sales, profit, profit margin, loss-making orders, discount levels, and shipping performance.
+- **Product Profitability Analysis** — Identification of product sub-categories driving profit versus those generating losses.
+- **Profit Concentration Analysis (Pareto 80/20)** — Demonstrates how a small group of products contributes the majority of total profit.
+- **Regional Loss Analysis** — Highlights geographic locations where profitability is negatively impacted.
+- **Discount Impact Analysis** — Shows how increasing discount levels affect average profitability.
+
+These analytical views enable stakeholders to quickly understand performance drivers and take targeted actions to improve profitability.
 
 ---
 
