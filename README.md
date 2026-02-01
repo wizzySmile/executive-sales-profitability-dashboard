@@ -130,7 +130,7 @@ These analytical views enable stakeholders to quickly understand performance dri
 | `excel-executive-profitability-dashboard/sales-and-profitability-analysis-dashboard.xlsx` | Excel executive dashboard file |
 | `excel-executive-profitability-dashboard/executive-dashboard-snapshot` | Screenshots of the Excel dashboard |
 | `tableau-sales-customer-overview` | Tableau sales and customer overview dashboard |
-| `tableau-sales-customer-overview/sales-and-customers-dashboard.twbx` | Packaged Tableau workbook |
+| `tableau-sales-customer-overview/sales-and-customers-dashboard.twbx` | Packaged Tableau workbook (Downloadable) |
 | `tableau-sales-customer-overview/tableau-snapshot` | Screenshots of the Tableau dashboard |
 | `README.md` | Project documentation |
 
