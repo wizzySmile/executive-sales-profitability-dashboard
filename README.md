@@ -114,7 +114,7 @@ The dashboard provides:
 These analytical views enable stakeholders to quickly understand performance drivers and take targeted actions to improve profitability.
 
 
-![Excel Executive Dashboard](excel-executive-profitability-dashboard/executive-dashboard-snapshot.png)
+![Excel Executive Dashboard](excel-executive-profitability-dashboard/excel-snapshot/executive-dashboard-snapshot.png)
 
 ---
 
