@@ -6765,7 +6765,7 @@
       </cards>
       <simple-id uuid='{21D0C59E-8A4C-4D8E-9FFB-84AF5A16587C}' />
     </window>
-    <window class='dashboard' maximized='true' name='Sales Dashboard'>
+    <window class='dashboard' name='Sales Dashboard'>
       <viewpoints>
         <viewpoint name='KPI Profit'>
           <zoom type='entire-view' />
@@ -6789,10 +6789,10 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='38' />
+      <active id='17' />
       <simple-id uuid='{C8CDE3FE-1788-4F96-A0F1-B455FBD3FA24}' />
     </window>
-    <window class='dashboard' name='Customers Dashboard'>
+    <window class='dashboard' maximized='true' name='Customers Dashboard'>
       <viewpoints>
         <viewpoint name='Customer Distribution'>
           <zoom type='entire-view' />
